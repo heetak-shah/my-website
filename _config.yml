@@ -1,6 +1,6 @@
 # Site settings
 title: Heetak Shah
-description: Welcome to my personal website
+description: Predoc at Stanford GSB
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heetak.com"
 
@@ -11,11 +11,7 @@ author: Heetak Shah
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
-
-# Permalink style
-permalink: /blog/:year/:month/:day/:title/
 
 # Exclude from processing
 exclude:
