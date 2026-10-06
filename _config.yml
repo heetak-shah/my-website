@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Heetak Shah"
 title_separator          : "-"
 name                     : &name "Heetak Shah"
-description              : &description "Predoctoral Research Fellow at Stanford GSB"
+description              : &description "PhD Student at Berkeley Econ"
 url                      : https://heetak.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "heetak-shah/my-website"
@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Heetak Shah"
-  location         : "Palo Alto, CA"
-  email            : "heetak@stanford.edu"
+  location         : "Berkeley, CA"
+  email            : "heetak@berkeley.edu"
   github           : "heetak-shah"
   linkedin         : "heetak"
 
